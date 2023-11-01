@@ -14,6 +14,7 @@ this code makes use of the following module
 Note: This password have the same privileges with your normal gmail account.
 
 # Application Interface running:
+The image shows the application currently runing. 
 ![image](https://github.com/CrawlWise/MonitorCPUUtilization/assets/126500329/41cf6349-9f34-42ba-8275-91d96b9feb17)
 
 
