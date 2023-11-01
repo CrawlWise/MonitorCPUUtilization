@@ -11,5 +11,9 @@ this code makes use of the following module
 2. Create a password that the python script will use to send the mail. See image below
 ![image](https://github.com/CrawlWise/MonitorCPUUtilization/assets/126500329/cafbaf29-6a96-459d-a207-fad955f111c3)
 3. Once the password is created, you can use it in your script to send message.
-Note: This password have the same privileges with your normal gmail account. 
+Note: This password have the same privileges with your normal gmail account.
+
+# Application Interface running:
+![image](https://github.com/CrawlWise/MonitorCPUUtilization/assets/126500329/41cf6349-9f34-42ba-8275-91d96b9feb17)
+
 
